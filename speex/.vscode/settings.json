@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "speex_bits.h": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "iosfwd": "c",
+        "istream": "c",
+        "limits": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "speex_api.h": "c",
+        "unistd.h": "c"
+    }
+}
